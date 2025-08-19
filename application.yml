@@ -1,0 +1,2 @@
+common:
+  message: "This is a common property for all services"
